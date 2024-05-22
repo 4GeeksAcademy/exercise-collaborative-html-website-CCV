@@ -1,3 +1,11 @@
 body{
     background: #BDBDBD;
 }
+.encabezado{
+background-color: rgb(228, 228, 228);
+text-align: center;
+position: relative;
+}
+.imagenEslogan{
+   position: absolute;
+}
